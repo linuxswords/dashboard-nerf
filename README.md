@@ -16,7 +16,7 @@ dashboard-nerf relies on golang standard library only, so maybe just try
 go get github.com/schnoddelbotz/dashboard-nerf
 ```
 
-Alternatively, clone this repository and run `make`.
+Alternatively, clone this repository and run `make dependencies && make && make run`.
 
 ## example invocation
 
